@@ -1,0 +1,1 @@
+DevOps is a combination of development and operations. Git is a popular tool for controlling versions, that allows developers to have an access to all versions of product. It is simple and easy-to-use.
