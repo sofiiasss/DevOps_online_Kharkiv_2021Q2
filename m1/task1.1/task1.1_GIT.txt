@@ -1,0 +1,14 @@
+1bb2bf7 (HEAD -> master, origin/master, origin/develop, develop) HEAD@{0}: merge develop: Fast-forward
+bef46db HEAD@{1}: checkout: moving from develop to master
+1bb2bf7 (HEAD -> master, origin/master, origin/develop, develop) HEAD@{2}: commit: 7 commit
+1fc9877 HEAD@{3}: commit: 6 commit
+0430c2b (origin/images, images) HEAD@{4}: merge images: Fast-forward
+bd2ba80 (origin/styles, styles) HEAD@{5}: checkout: moving from styles to develop
+bd2ba80 (origin/styles, styles) HEAD@{6}: checkout: moving from develop to styles
+bd2ba80 (origin/styles, styles) HEAD@{7}: checkout: moving from images to develop
+0430c2b (origin/images, images) HEAD@{8}: commit: 4 commit
+f3f5521 HEAD@{9}: commit: third commit 1
+bd2ba80 (origin/styles, styles) HEAD@{10}: checkout: moving from develop to images
+bd2ba80 (origin/styles, styles) HEAD@{11}: commit: second commit
+bef46db HEAD@{12}: checkout: moving from master to develop
+bef46db HEAD@{13}: commit (initial): first commit
