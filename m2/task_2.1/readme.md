@@ -7,12 +7,12 @@
 **Part 2**
 Oracle VM has friendly and intuitive interface. Creating a VM doesn't take much time; cloning it to.
 Commands (in this case were buttons), that we have used to explore this tool:
-''' 
+```
 button start - start a VM
 button stop - stop VM and requires to choose one way in which VM will be stopped (save state, turn off or and send a signal to turn off it)
 button reboot - restart a VM
 button save state - saves state of VM
-'''
+```
 Snapshots are used to save states and if it needs to return to any moment, it could be reestablished from snaps.
 <img
 src="file:///C:/Users/SofiyaDevOps_online_Kharkiv_2021Q2/m2/task_2.1/images/snap.jpg" />
@@ -26,7 +26,7 @@ src="file:///C:/Users/SofiyaDevOps_online_Kharkiv_2021Q2/m2/task_2.1/images/tabl
 
 **Part 3**
 Commands that were used:
-'''
+```
 mkdir 
 vagrant init
 vagrant up
@@ -34,7 +34,7 @@ vagrant halt
 vagrant destroy
 vagrant package
 vagrant box add
-'''
+```
 Download enviroment, create folder and initialize the enviroment.
 Then ran vagrant and booted a VM.
 Connected to VM with Putty.
