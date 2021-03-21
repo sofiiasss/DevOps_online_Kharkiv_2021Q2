@@ -14,13 +14,13 @@ button reboot - restart a VM
 button save state - saves state of VM
 '''
 Snapshots are used to save states and if it needs to return to any moment, it could be reestablished from snaps.
-<img
-src="file:///C:\Users\Sofiya\DevOps_online_Kharkiv_2021Q2\m2\task_2.1\images\snap.jpg"\>
+![]
+(C:\Users\Sofiya\DevOps_online_Kharkiv_2021Q2\m2\task_2.1\images\snap.jpg)
 
 The next steps were exporting, importing VM, configuring USB connection and creating folders to exchange files.
 Table of connections.
-<img
-src="file:///C:\Users\Sofiya\DevOps_online_Kharkiv_2021Q2\m2\task_2.1\images\table.jpg"\>
+![]
+(C:\Users\Sofiya\DevOps_online_Kharkiv_2021Q2\m2\task_2.1\images\table.jpg)
 
 Сommands used in the command line correspond to buttons on the interface.
 
@@ -38,17 +38,17 @@ vagrant box add
 Download enviroment, create folder and initialize the enviroment.
 Then ran vagrant and booted a VM.
 Connected to VM with Putty.
-<img
-src="file:///C:\Users\Sofiya\DevOps_online_Kharkiv_2021Q2\m2\task_2.1\images\date.jpg"\>
+![]
+(C:\Users\Sofiya\DevOps_online_Kharkiv_2021Q2\m2\task_2.1\images\date.jpg)
 
 Then stopped a VM and destoyed it.
-<img
-src="file:///C:\Users\Sofiya\DevOps_online_Kharkiv_2021Q2\m2\task_2.1\images\destroy.jpg"\>
+![]
+(C:\Users\Sofiya\DevOps_online_Kharkiv_2021Q2\m2\task_2.1\images\destroy.jpg)
 
 Creating box:
-<img
-src="file:///C:\Users\Sofiya\DevOps_online_Kharkiv_2021Q2\m2\task_2.1\images\box.jpg"\>
+![]
+(C:\Users\Sofiya\DevOps_online_Kharkiv_2021Q2\m2\task_2.1\images\box.jpg)
 
 List of boxes:
-<img
-src="file:///C:\Users\Sofiya\DevOps_online_Kharkiv_2021Q2\m2\task_2.1\images\box2.jpg"\>
+![]
+(C:\Users\Sofiya\DevOps_online_Kharkiv_2021Q2\m2\task_2.1\images\box2.jpg)
