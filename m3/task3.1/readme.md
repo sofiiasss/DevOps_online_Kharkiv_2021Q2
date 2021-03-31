@@ -17,6 +17,7 @@ Then we made selection:
 **ORDER BY**
 <img
 scr="https://github.com/sofiiasss/DevOps_online_Kharkiv_2021Q2/blob/master/m3/task3.1/images/select1.jpg" />
+
 <img
 scr="https://github.com/sofiiasss/DevOps_online_Kharkiv_2021Q2/blob/master/m3/task3.1/images/select2.jpg" />
 
