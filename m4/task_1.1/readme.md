@@ -46,7 +46,7 @@ src="https://github.com/sofiiasss/DevOps_online_Kharkiv_2021Q2/blob/master/m4/ta
 Creating the fifth topology:
 
 <img
-src="https://github.com/sofiiasss/DevOps_online_Kharkiv_2021Q2/blob/master/m4/task_1.1/images/t5.jpg' /> 
+src="https://github.com/sofiiasss/DevOps_online_Kharkiv_2021Q2/blob/master/m4/task_1.1/images/t5.jpg" /> 
 
 <img
 src="https://github.com/sofiiasss/DevOps_online_Kharkiv_2021Q2/blob/master/m4/task_1.1/images/t5_1.jpg" />
