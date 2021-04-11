@@ -32,7 +32,7 @@ src="https://github.com/sofiiasss/DevOps_online_Kharkiv_2021Q2/blob/master/m5/im
 src="https://github.com/sofiiasss/DevOps_online_Kharkiv_2021Q2/blob/master/m5/images/7.jpg" />
 
 <img
-src="https://github.com/sofiiasss/DevOps_online_Kharkiv_2021Q2/blob/master/m5/images/7_1.jpg' />
+src="https://github.com/sofiiasss/DevOps_online_Kharkiv_2021Q2/blob/master/m5/images/7_1.jpg" />
 
 **Part 2**
 Commands that we've used:
