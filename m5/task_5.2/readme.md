@@ -6,21 +6,21 @@
 **GID** - group unique identifier that user participate, their directory location. 
 ```
 <br>
-<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m5/task5.2/images/passwd.png">
+<img src="https://github.com/sofiiasss/DevOps_online_Kharkiv_2021Q2/blob/master/m5/task_5.2/images/passwd.png">
 <br>
 
 ```
 **/etc/group** directory contains only users` group info.
 ```
 <br>
-<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m5/task5.2/images/group.png">
+<img src="https://github.com/sofiiasss/DevOps_online_Kharkiv_2021Q2/blob/master/m5/task_5.2/images/group.png">
 <br>
 
 ```
 -g parameter shows only the effective GID, -G parameter shows all GIDs
 ```
 <br>
-<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m5/task5.2/images/id.png">
+<img src="https://github.com/sofiiasss/DevOps_online_Kharkiv_2021Q2/blob/master/m5/task_5.2/images/id.png">
 <br>
 
 ```
@@ -41,12 +41,12 @@
 <br>
 
 **Extended directory info**. 
-<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m5/task5.2/images/la.png">
+<img src="https://github.com/sofiiasss/DevOps_online_Kharkiv_2021Q2/blob/master/m5/task_5.2/images/la.png">
 <br>
 
 **chmod 755** to file provides full-access to user, just read-executable to group and others. Sticky bit is absent. Stickey bit is a bit that prevents user to delete directory, command interpretation - chmod 1755 filename, where 1 is a stikey bit pointer.
 <br>
-<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m5/task5.2/images/rwx.png"> 
+<img src="https://github.com/sofiiasss/DevOps_online_Kharkiv_2021Q2/blob/master/m5/task_5.2/images/rwx.png"> 
 <br>
 
 
