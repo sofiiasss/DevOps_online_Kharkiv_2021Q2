@@ -22,7 +22,7 @@ Task 9.1
 8. Changing directory to directory where our files are.
 9. Using command:
 ```
-python <name_of_fizz_buzz_test_file>.py
+python name_of_fizz_buzz_test_file.py
 ```
 10. Checking results:
 <br>
