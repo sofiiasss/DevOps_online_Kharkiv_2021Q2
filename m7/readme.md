@@ -19,11 +19,11 @@ fi
 
 Option **--all** and **--target** result
 <br>
-<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m7/task7.1/images/all.png">
+<img src="https://github.com/sofiiasss/DevOps_online_Kharkiv_2021Q2/blob/master/m7/images/1.jpg">
 <br>
-<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m7/task7.1/images/target.png">
+<img src="https://github.com/sofiiasss/DevOps_online_Kharkiv_2021Q2/blob/master/m7/images/2.jpg">
 <br>
-<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m7/task7.1/images/else.png">
+<img src="https://github.com/sofiiasss/DevOps_online_Kharkiv_2021Q2/blob/master/m7/images/without.jpg">
 <br>
 
 **Script B**
@@ -63,11 +63,4 @@ echo ' ' >> $2
 echo $line4 >> $2
 echo ' ' >> $2
 ```
-<br>
-
-Results:
-<br>
-<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m7/task7.1/images/cat1.png">
-<br>
-<img src="https://github.com/HighLandner/DevOps_online_Kharkiv_2021Q1/blob/master/m7/task7.1/images/cat2.png">
 <br>
